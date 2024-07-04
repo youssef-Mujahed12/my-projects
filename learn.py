@@ -1,3 +1,4 @@
+# Gussing number game
 import random
 
 difficulty = input("Hello in gussing number game :) choose the difficulty of the game :('easy' , 'medium' , 'hard')\n")
